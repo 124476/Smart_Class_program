@@ -1,0 +1,21 @@
+﻿<Window x:Class="SmartClass.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartClass"
+        mc:Ignorable="d"
+        Title="Умный класс" Height="450" Width="800" MinHeight="450" MinWidth="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="250">
+            <TextBlock Text="Ваш код" FontSize="17"></TextBlock>
+            <TextBox Name="Code" FontSize="17"></TextBox>
+            <Button Name="SaveBtn" Content="Активировать" FontSize="17" 
+                    Background="White" Click="Save_Click"></Button>
+            <Button Name="AutoBtn" Content="Добавить в автозагрузку" FontSize="17" 
+                    Background="White" Click="AutoBtn_Click"></Button>
+            <Button Name="HiddenBtn" Content="Скрыть программу" FontSize="17" 
+                    Background="White" Click="HiddenBtn_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

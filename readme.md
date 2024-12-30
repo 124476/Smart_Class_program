@@ -25,15 +25,13 @@
 
 ---
 
-## **Инструкция по установке**
+## **Скачивание программы**
 
-1. Перейдите в директорию программы:  
-   ```
-   \SmartClass\SmartClass\bin\Release\
-   ```
+### Нажмите на ссылку ниже, чтобы скачать установочный файл **SmartClass.exe**:
 
-2. Запустите программу:  
-   Найдите файл **SmartClass.exe** и выполните двойной клик для запуска.
+[![Скачать программу](https://img.shields.io/badge/Скачать%20программу-%E2%9C%94-brightgreen)](https://github.com/124476/Smart_Class_program/raw/refs/heads/master/SmartClass/SmartClass/bin/Release/SmartClass.exe)
+
+> Замените `https://example.com/SmartClass.exe` на реальный URL для скачивания файла.
 
 ---
 

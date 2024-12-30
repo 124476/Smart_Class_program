@@ -31,7 +31,7 @@
 
 [![Скачать программу](https://img.shields.io/badge/Скачать%20программу-%E2%9C%94-brightgreen)](https://github.com/124476/Smart_Class_program/raw/refs/heads/master/SmartClass/SmartClass/bin/Release/SmartClass.exe)
 
-> Замените `https://example.com/SmartClass.exe` на реальный URL для скачивания файла.
+> Вручную можно скачать по ссылке ```https://github.com/124476/Smart_Class_program/blob/master/SmartClass/SmartClass/bin/Release/SmartClass.exe```
 
 ---
 

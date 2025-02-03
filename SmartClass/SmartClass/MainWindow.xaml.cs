@@ -121,7 +121,7 @@ namespace SmartClass
         {
             try
             {
-                var response = await httpClient.GetAsync("SchoolDigital.pythonanywhere.com/api/computers/");
+                var response = await httpClient.GetAsync("https://smartclass.pythonanywhere.com/api/computers/");
                 var content = await response.Content.ReadAsStringAsync();
                 List<Computer> computers = ParseJsonToComputers(content);
 
